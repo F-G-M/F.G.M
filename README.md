@@ -4,7 +4,7 @@ F.G.M
 MainSite
 Github How to:
 
-navigate into folder from command line and type: git init
+navigate into folder from command line and type: git init \n
 to copy the folder from online do : git clone (https://githuburl)
 if u add new files to the folder do : git add .
 when ur done making changes do : git commit .
